@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/files/JoshChan_Resume.pdf
 
-url: joshflchan.github.io
+url: http://joshflchan.github.io
 
 permalink: /:title/
 
