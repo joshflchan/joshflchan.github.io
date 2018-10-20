@@ -1,6 +1,7 @@
 # main text of home
 name: Josh Chan
-bio: Business and Computer Science Major passionate about bridging the gap between commerce and technology
+bio: Business and Computer Science Major
+Passionate about bridging the gap between commerce and technology
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -38,9 +39,9 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://linkedin.com/in/josh-chan/
+linkedin: josh-chan
 # youtube: myyoutube
-github: https://github.com/joshflchan
+github: joshflchan
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -49,7 +50,7 @@ github: https://github.com/joshflchan
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-spotify: open.spotify/user/sonnet69
+spotify: sonnet69
 email: josh.fl.chan@gmail.com
 
 authors:
