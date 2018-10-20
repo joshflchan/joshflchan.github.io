@@ -27,5 +27,6 @@ and medical health professionals.
 
 ---
 
-Check out the [demo version](https://eemdr.tech/)here.
+Check out the [demo version](https://eemdr.tech/) here.
+
 [Updated version](https://vremdr.io/) is here. 
