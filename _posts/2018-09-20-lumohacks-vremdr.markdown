@@ -1,8 +1,11 @@
 ---
-title: ":lightbulb: vrEMDR, Virtual Reality Psychotherapy"
+title: ":bulb: vrEMDR: Virtual Reality Psychotherapy"
 layout: post
 date: 2018-09-20 21:10
-tag: hackathon, mental health, virtual reality
+tag: 
+- hackathon
+- mental health
+- virtual reality
 image: https://joshflchan.github.io/assets/images/vrEMDR.png
 headerImage: false
 projects: true
@@ -13,7 +16,7 @@ author: joshflchan
 externalLink: false
 ---
 
-![Screenshot](https://joshflchan.github.io/assets/images/vrEMDR.png)
+![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/vrEMDR.PNG)
 
 vrEMDR is a 24-hour hackathon project that brings together virtual reality and pyschotherapy - [Demo](https://eemdr.tech/).
 
