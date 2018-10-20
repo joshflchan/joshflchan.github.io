@@ -22,7 +22,9 @@ vrEMDR is a 24-hour hackathon project that brings together virtual reality and p
 vrEMDR is an immersive virtual reality psychotherapy app with the goal of improving accessibility and effectiveness 
 of Eye Movement Desensitization and Reprocessing. It was created and demoed at Lumohacks 2018, placing 2nd in the 
 hackathon. It was developed with the Unity Engine and C# for the VR functions, and Java and Android SDK for the app 
-itself. I am continuing vrEMDR in collaboration with members of my [hackathon](https://adinkwok.com/) [team](http://georgexu99.github.io) 
+itself. 
+
+I am continuing vrEMDR in collaboration with members of my [hackathon](https://adinkwok.com/) [team](http://georgexu99.github.io) 
 and medical health professionals. 
 
 ---
