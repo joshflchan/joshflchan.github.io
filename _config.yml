@@ -1,6 +1,6 @@
 # main text of home
 name: Josh Chan
-bio: Business and Computer Science Major Passionate about bridging the gap between commerce and technology
+bio: Passionate about bridging the gap between commerce and technology
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: josh.fl.chan@gmail.com
 authors:
     joshflchan:
         name: Josh Chan
-        bio: Business and Computer Science Major Passionate about bridging the gap between commerce and technology
+        bio: Passionate about bridging the gap between commerce and technology
         external-image: false
         picture: assets/images/profile.jpg
 
