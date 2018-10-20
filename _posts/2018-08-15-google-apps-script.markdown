@@ -3,7 +3,7 @@ title: ":computer: Google Apps Script: Spreadsheet to Email"
 layout: post
 date: 2018-08-14 16:30
 tag: 
-- google app script
+- google apps script
 - spreadsheet
 image: http://whitestratus.com/wp-content/uploads/2012/06/White-Papers-ten-best-practices-for-google-apps-script-700x460.jpg
 headerImage: false
