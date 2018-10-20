@@ -37,4 +37,3 @@ Created with Google's Apps Script.
 ---
 
 [Check it out](https://github.com/joshflchan/IT-support-email-script/blob/master/request-email-parser.gs) here.
-
