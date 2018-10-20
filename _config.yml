@@ -1,9 +1,10 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Josh Chan
+bio: Business and Computer Science Major passionate about bridging
+the gap between commerce and technology
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -38,10 +39,9 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: https://linkedin.com/in/josh-chan/
 # youtube: myyoutube
-spotify: myspotify
-github: mygithub
+github: https://github.com/joshflchan
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,12 +50,14 @@ github: mygithub
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+spotify: open.spotify/user/sonnet69
+email: josh.fl.chan@gmail.com
 
 authors:
     joshflchan:
         name: Josh Chan
-        bio: A Man who travels the world eating noodles
+        bio: Business and Computer Science Major passionate about bridging
+        the gap between commerce and technology
         external-image: false
         picture: assets/images/profile.jpg
 
