@@ -15,7 +15,7 @@ I'm also currently redeveloping and redesigning the [vrEMDR project](https://jos
 in collaboration with my hackathon team and medical health professionals. Currently actively learning and working
 with Google's Flutter and Dart. 
 
-### Currently looking for Summer 2019 student intern positions || Winter 2018/2019 Co-op positions
+##### Currently looking for Summer 2019 student intern positions || Winter 2018/2019 Co-op positions
 
 You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume.pdf). Updated as of September 2018.
 
