@@ -10,6 +10,7 @@ star: true
 category: blog
 author: joshflchan
 description: First blog post.
+
 ---
 
 ## Introduction
@@ -18,3 +19,5 @@ Hello! This is my first blog post. Getting used to working with Jeykll and Markd
 See you soon! 
 
 -Josh
+
+---
