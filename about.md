@@ -4,11 +4,20 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hey! I'm Josh. A second-year Business and Computer Science Major at the 
-University of British Columbia enrolled in the BUCS programme. </p> 
+<p>Hey! I'm Josh. A second-year Combined Business and Computer Science Major at the 
+University of British Columbia, currently enrolled in the [BUCS programme](https://mybcom.sauder.ubc.ca/courses-money-enrolment/program-requirements/combined-major-in%C2%A0business-and-computer-science). </p> 
 
+This summer I joined the Commerce Undergraduate Society (CUS) at UBC as an IT Associate. My role 
+currently involves handling IT ticket support requests and creating back-end development projects 
+to increase the efficiency and accessibility of varying features for users within the CUS. 
 
-<p> Currently looking for Summer 2018 positions </p>
+I'm also currently redeveloping and redesigning the [vrEMDR project](https://joshflchan.github.io/lumohacks-vremdr/)
+in collaboration with my hackathon team and medical health professionals. Currently actively learning and working
+with Google's Flutter and Dart. 
+
+<b><p> Currently looking for Summer 2019 student intern positions || Winter 2018/2019 Co-op positions </p></b>
+
+You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume.pdf). Updated as of September 2018.
 
 <h2>Skills</h2>
 
@@ -23,10 +32,16 @@ University of British Columbia enrolled in the BUCS programme. </p>
 	<li>GSuite and GSuite Management</li>
 </ul>
 
-<h2>Projects</h2>
+Coding is something that I've really started to enjoy and pursue this past year after taking a few computer science related
+courses. I enjoy hackathons and hope to attend more throughout the year to develop my skills and figure out which areas of 
+computer science that I want to dive into. I've developed a recent interestin Data Science and have started looking into projects through [Kaggle](https://www.kaggle.com/).
+
+In my spare time I sketch landscapes, take photos, and listen to music. Hoping to write in my blog more and feature some of my more creative projects!
+
+
+
+<h2>Featured Project</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://joshflchan.github.io/lumohacks-vremdr/">vrEMDR</a></li>
 </ul>
