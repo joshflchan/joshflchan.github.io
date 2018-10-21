@@ -19,7 +19,7 @@ with Google's Flutter and Dart.
 
 You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume.pdf). Updated as of September 2018.
 
-<h2>Skills</h2>
+## Skills
 
 <ul class="skill-list">
 	<li>Java (Software Development)</li>
@@ -32,13 +32,15 @@ You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_
 	<li>GSuite and GSuite Management</li>
 </ul>
 
+---
+
 Coding is something that I've really started to enjoy and pursue this past year after taking a few computer science related
 courses. I enjoy hackathons and hope to attend more throughout the year to develop my skills and figure out which areas of 
 computer science that I want to dive into. I've developed a recent interestin Data Science and have started looking into projects through [Kaggle](https://www.kaggle.com/).
 
 In my spare time I sketch landscapes, take photos, and listen to music. Hoping to write in my blog more and feature some of my more creative projects!
 
-<h2>Featured Project</h2>
+## Featured Project
 
 <ul>
 	<li><a href="https://joshflchan.github.io/lumohacks-vremdr/">vrEMDR</a></li>
