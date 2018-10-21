@@ -36,7 +36,7 @@ You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_
 
 Coding is something that I've really started to enjoy and pursue this past year after taking a few computer science related
 courses. I enjoy hackathons and hope to attend more throughout the year to develop my skills and figure out which areas of 
-computer science that I want to dive into. I've developed a recent interestin Data Science and have started looking into projects through [Kaggle](https://www.kaggle.com/).
+computer science that I want to dive into. I've developed a recent interest in Data Science and have started looking into projects through [Kaggle](https://www.kaggle.com/).
 
 In my spare time I sketch landscapes, take photos, and listen to music. Hoping to write in my blog more and feature some of my more creative projects!
 
