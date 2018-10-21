@@ -15,7 +15,7 @@ description: First blog post.
 
 ## Introduction
 
-Hello! This is my first blog post. Getting used to working with Jeykll and Markdown. Will be posting more in the future
+Hello! This is my first blog post. Getting used to working with Jeykll and Markdown. Will be posting more in the future.
 See you soon! 
 
 -Josh
