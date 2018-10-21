@@ -1,5 +1,5 @@
 ---
-title: ":dog2: Dogoo Sploot Messenger Bot"
+title: ":dog2: Doggo Sploot Messenger Bot"
 layout: post
 date: 2018-08-30 21:10
 tag: 
