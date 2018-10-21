@@ -18,13 +18,13 @@ Google Apps Script - from Form submission and Spreadsheet data, to summarized Em
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="http://joshflchan.github.io/assets/images/spreadsheet-1.png" alt="spreadsheet screenshot">
-        <img class="image" src="http://joshflchan.github.io/assets/images/spreadsheet-2.png" alt="spreadsheet screenshot">
+        <img class="image" src="https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/spreadsheet-1.PNG" alt="spreadsheet screenshot">
+        <img class="image" src="https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/spreadsheet-2.PNG" alt="spreadsheet screenshot">
         <figcaption class="caption">Screenshot of IT Support request form spreadsheet</figcaption>
     </div>
 
     <div class="toright">
-        <img class="image" src="http://joshflchan.github.io/assets/images/email-summary.png" alt="email summary screenshot">
+        <img class="image" src="https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/email-summary.PNG" alt="email summary screenshot">
         <figcaption class="caption">Screenshot of a sample email summary</figcaption>
     </div>
 </div>
