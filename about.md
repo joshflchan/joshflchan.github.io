@@ -15,7 +15,7 @@ I'm also currently redeveloping and redesigning the [vrEMDR project](https://jos
 in collaboration with my hackathon team and medical health professionals. Currently actively learning and working
 with Google's Flutter and Dart. 
 
-##### Currently looking for Summer 2019 student intern positions || Winter 2018/2019 Co-op positions
+#### Currently looking for Summer 2019 student intern positions || Winter 2018/2019 Co-op positions
 
 You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume.pdf). Updated as of September 2018.
 
@@ -35,7 +35,7 @@ You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_
 ---
 
 
-{% highlight js %}Coding{% endhighlight %} is something that I've really started to enjoy and pursue this past year after taking a few computer science related courses. I enjoy hackathons and hope to attend more throughout the year to develop my skills and figure out which areas of 
+Coding is something that I've really started to enjoy and pursue this past year after taking a few computer science related courses. I enjoy hackathons and hope to attend more throughout the year to develop my skills and figure out which areas of 
 computer science that I want to dive into. I've developed a recent interest in Data Science and have started looking into projects through [Kaggle](https://www.kaggle.com/).
 
 In my spare time I sketch landscapes, take photos, and listen to music. Hoping to write in my blog more and feature some of my more creative projects!
