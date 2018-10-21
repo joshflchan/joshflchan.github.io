@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/files/JoshChan_Resume.pdf
+resume-url: assets/JoshChan_Resume.pdf
 
 url: http://joshflchan.github.io
 
