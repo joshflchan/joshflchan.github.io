@@ -23,7 +23,7 @@ You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_
 
 <ul class="skill-list">
 	<li>Java (Software Development)</li>
-	<li>C++ (Data Structures, Algorithms</li>
+	<li>C++ (Data Structures, Algorithms)</li>
 	<li>Unity Engine (C# scripts)</li>
 	<li>Google Apps Script/Javascript</li>
 	<li>HTML and CSS</li>
