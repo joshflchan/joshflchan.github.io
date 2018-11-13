@@ -23,15 +23,16 @@ You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_
 
 <ul class="skill-list">
 	<li>Java (Software Development)</li>
-	<li>C++ (Data Structures, Algorithms)</li>
-	<li>Python and R (Data Science)</li>
-	<li>Tableau and FileMaker Pro (Data Visualization and Databases)</li>
+	<li>C++ (Data Structures & Algorithms)</li>
+	<li>Experience with Data Visualization Languages and Tools</li>
+		<li>Python, R, Tableau, FileMaker Pro/li>
 	<li>Unity Engine (C# scripts)</li>
 	<li>Google Apps Script/Javascript</li>
 	<li>HTML and CSS</li>
 	<li>Git</li>
 	<li>Adobe Photoshop and Lightroom (Photo Editing)</li>
 	<li>GSuite and GSuite Management</li>
+	<li>Proficient with Microsoft Office</li>
 </ul>
 
 ---
