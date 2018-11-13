@@ -25,7 +25,7 @@ You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_
 	<li>Java (Software Development)</li>
 	<li>C++ (Data Structures & Algorithms)</li>
 	<li>Experience with Data Visualization Languages and Tools</li>
-		<li>Python, R, Tableau, FileMaker Pro/li>
+	<ul><li>Python, R, Tableau, FileMaker Pro</li></ul>
 	<li>Unity Engine (C# scripts)</li>
 	<li>Google Apps Script/Javascript</li>
 	<li>HTML and CSS</li>
