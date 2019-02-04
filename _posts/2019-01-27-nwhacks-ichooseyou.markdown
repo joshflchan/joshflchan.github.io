@@ -32,7 +32,7 @@ the Unity Engine (for game engine, android packaging and models/textures), Vufor
 IBM Watson's voice-to-text API (for speech recognition), and custom Stdlib REST APIs (to calculate battle logic). The project
 won the award: "Best/Most Creative Use of Standard Library," presented by the sponsor Standard Library.
 
-![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/nwhacks-group.jpg)
+![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/nwhacks_group.jpg)
 
 #### How it works
 
@@ -54,6 +54,6 @@ with Vuforia's cloud SDK.
 
 ---
 
-Check out the [demo version](https://devpost.com/software/i-choose-ndouble-you) here. 
-Stdlib APIs [here](https://stdlib.com/@huangsa/lib/waitingplayer-calc/#-) and [here](https://stdlib.com/@huangsa/lib/activeplayer-calc/#-).
-Presentation Website [here](http://ichoosenw.com/)
+..* Check out the [demo version](https://devpost.com/software/i-choose-ndouble-you) here. 
+..* Stdlib APIs [here](https://stdlib.com/@huangsa/lib/waitingplayer-calc/#-) and [here](https://stdlib.com/@huangsa/lib/activeplayer-calc/#-).
+..* Presentation website [here](http://ichoosenw.com/).
