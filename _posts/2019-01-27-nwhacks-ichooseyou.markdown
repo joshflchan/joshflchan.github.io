@@ -15,12 +15,12 @@ description: "Battle with your Pokémon cards in augmented reality with voice co
 category: project
 author: joshflchan
 externalLink: false
----
 
+---
 ![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/ichooseyou.jpg)
 
 I Choose You! is a 24-hour hackathon project that allows Pokémon fans to live their childhood dreams of battling with
-their trading cards and shouting attack commands - [Quick demo recorded by Keith from Standard Library](https://twitter.com/keithwhor/status/1089681530044207104) .
+their trading cards and shouting attack commands - [Quick demo recorded by Keith from Standard Library](https://twitter.com/keithwhor/status/1089681530044207104).
 
 ---
 
