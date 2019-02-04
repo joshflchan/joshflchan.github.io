@@ -27,7 +27,7 @@ vrEMDR is an immersive virtual reality psychotherapy app with the goal of improv
 of Eye Movement Desensitization and Reprocessing. It was created and demoed at Lumohacks 2018, placing 2nd in the 
 hackathon. It was developed with the Unity Engine and Google VR SDK for the virtual reality functions, and Java and Android SDK for the app itself. 
 
-![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/lumohacks_group.PNG)
+![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/lumohacks_group.jpg)
 
 #### How it works 
 
