@@ -22,13 +22,26 @@ vrEMDR is a 24-hour hackathon project that brings together virtual reality and p
 
 ---
 
+#### Architecture
 vrEMDR is an immersive virtual reality psychotherapy app with the goal of improving accessibility and effectiveness 
 of Eye Movement Desensitization and Reprocessing. It was created and demoed at Lumohacks 2018, placing 2nd in the 
-hackathon. It was developed with the Unity Engine and C# for the VR functions, and Java and Android SDK for the app 
-itself. 
+hackathon. It was developed with the Unity Engine and Google VR SDK for the virtual reality functions, and Java and Android SDK for the app itself. 
+
+![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/lumohacks_group.PNG)
+
+#### How it works 
+
+Built with Android Studio, the starting user interface of the app is launched and allows the user to begin their session 
+or adjust settings such as session volume, or eye movement desensitization speed. Once the settings are adjusted (or not), 
+calls are made to launch Unity's game engine and the Unity VR scene is displayed. C# scripts within Unity handle the 
+scene animations and audio.
+
+#### What's next?
 
 I am continuing vrEMDR in collaboration with members of my [hackathon](https://adinkwok.com/) [team](http://georgexu99.github.io) 
-and medical health professionals. 
+and medical health professionals. We plan on refactoring the project with Google's Dart and Flutter SDK. 
+
+Update (2018-12-01): Future development of project has been delayed until further notice. Some links may be temporarily down. 
 
 ---
 
