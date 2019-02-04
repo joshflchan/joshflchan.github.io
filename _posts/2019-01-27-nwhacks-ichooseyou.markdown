@@ -54,6 +54,6 @@ with Vuforia's cloud SDK.
 
 ---
 
-..* Check out the [demo version](https://devpost.com/software/i-choose-ndouble-you) here. 
-..* Stdlib APIs [here](https://stdlib.com/@huangsa/lib/waitingplayer-calc/#-) and [here](https://stdlib.com/@huangsa/lib/activeplayer-calc/#-).
-..* Presentation website [here](http://ichoosenw.com/).
+- Check out the [demo version](https://devpost.com/software/i-choose-ndouble-you) here. 
+- Stdlib APIs [here](https://stdlib.com/@huangsa/lib/waitingplayer-calc/#-) and [here](https://stdlib.com/@huangsa/lib/activeplayer-calc/#-).
+- Presentation website [here](http://ichoosenw.com/).
