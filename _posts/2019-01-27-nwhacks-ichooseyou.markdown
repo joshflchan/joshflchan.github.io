@@ -1,5 +1,5 @@
 ---
-title: ":video_game: I Choose You!
+title: ":video_game: I Choose You!"
 layout: post
 date: 2019-01-27 18:30
 tag: 
