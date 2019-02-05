@@ -11,13 +11,13 @@ This summer I joined the Commerce Undergraduate Society (CUS) at UBC as an [IT A
 currently involves handling IT ticket support requests and creating back-end development projects 
 to increase the efficiency and accessibility of varying features for users within the CUS. 
 
-I'm also currently redeveloping and redesigning the [vrEMDR project](https://joshflchan.github.io/lumohacks-vremdr/)
-in collaboration with my hackathon team and medical health professionals. Currently actively learning and working
-with Google's Flutter and Dart. 
+I'm currently working on developing my two most recent [hackathon](https://joshflchan.github.io/bizhacks-visualeyes/)
+[projects](https://joshflchan.github.io/nwhacks-ichooseyou/) with my teammates at a steady pace during the academic term. Within
+the past few weeks, I will have attended 3 consectuive hackathons! And hoping to attend many more :sunglasses:
 
-#### Currently looking for Summer 2019 student intern positions || Winter 2018/2019 Co-op positions
+#### Currently looking for Summer 2019 student intern positions || Winter 2019 Co-op positions
 
-You can find my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume.pdf). Updated as of September 2018.
+You can find my the extended version of my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume_Extended.pdf). Updated as of February 2019.
 
 ## Skills
 
@@ -46,5 +46,5 @@ In my spare time I sketch landscapes, take photos, and listen to music. Hoping t
 ## Featured Project
 
 <ul>
-	<li><a href="https://joshflchan.github.io/lumohacks-vremdr/">vrEMDR</a></li>
+	<li><a href="https://joshflchan.github.io/bizhacks-visualeyes/">VisualEyes</a></li>
 </ul>
