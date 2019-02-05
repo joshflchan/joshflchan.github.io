@@ -41,7 +41,7 @@ scene animations and audio.
 I am continuing vrEMDR in collaboration with members of my [hackathon](https://adinkwok.com/) [team](http://georgexu99.github.io) 
 and medical health professionals. We plan on refactoring the project with Google's Dart and Flutter SDK. 
 
-*Update (2018-12-01): Future development of project has been delayed until further notice. Some links may be temporarily down. 
+*Update (2018-12-01): Future development of project has been delayed until further notice. Some links may be temporarily down.* 
 
 ---
 
