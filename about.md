@@ -13,30 +13,13 @@ to increase the efficiency and accessibility of varying features for users withi
 
 I'm currently working on developing my two most recent [hackathon](https://joshflchan.github.io/bizhacks-visualeyes/)
 [projects](https://joshflchan.github.io/nwhacks-ichooseyou/) with my teammates at a steady pace during the academic term. Within
-the past few weeks, I will have attended 3 consectuive hackathons! And hoping to attend many more :sunglasses:.
+the past few weeks, I will have attended 3 consectuive hackathons! And hoping to attend many more :sunglasses:
 
 #### Currently looking for Summer 2019 student intern positions || Winter 2019 Co-op positions
 
-You can find my the extended version of my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume_Extended.pdf). Updated as of February 2019.
-
-## Skills
-
-<ul class="skill-list">
-	<li>Java (Software Development)</li>
-	<li>C++ (Data Structures & Algorithms)</li>
-	<li>Experience with Data Visualization Languages and Tools</li>
-	<ul><li>Python, R, Tableau, FileMaker Pro</li></ul>
-	<li>Unity Engine (C# scripts)</li>
-	<li>Google Apps Script/Javascript</li>
-	<li>HTML and CSS</li>
-	<li>Git</li>
-	<li>Adobe Photoshop and Lightroom (Photo Editing)</li>
-	<li>GSuite and GSuite Management</li>
-	<li>Proficient with Microsoft Office</li>
-</ul>
+You can find the extended version of my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume_Extended.pdf). Updated as of February 2019.
 
 ---
-
 
 Coding is something that I've really started to enjoy and pursue this past year after taking a few computer science related courses. I enjoy hackathons and hope to attend more throughout the year to develop my skills and figure out which areas of 
 computer science that I want to dive into. I've developed a recent interest in Data Science and have started looking into projects through [Kaggle](https://www.kaggle.com/).
