@@ -24,7 +24,7 @@ their trading cards and shouting attack commands - [Quick demo recorded by Keith
 
 ---
 
-#### Architecture
+#### What is "I Choose You!"?
 
 Inspired by the popular video game Pokémon GO, I Choose You! is an immersive augmented reality mobile game that utilizes
 numerous technologies to bring forward its unique experience. Created at nwHacks 2019, the project was developed with
