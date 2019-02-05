@@ -29,7 +29,7 @@ VisualEyes is a tool that offers a unique solution to today's varying and obsolo
 consumer focus and predicting demographics and emotions when viewing marketing content. The project utilizes
 Swift (for iOS development), Microsoft Azure Cognitive Services API (for emotional facial analysis), ARKit 2 (for predictive eye-tracking), and Firebase (for storing data), and placed 1st at BizHacks 2019, winning Best Buy's Best Hack Award. 
 
-*Note: This project is intended for internal testing only and not meant to be used to access public hardware"
+*Note: This project is intended for internal testing only and not meant to be used to access public hardware*
 
 ![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/bizhacks_group.jpg)
 
