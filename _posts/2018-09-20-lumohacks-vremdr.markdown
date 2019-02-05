@@ -46,5 +46,7 @@ and medical health professionals. We plan on refactoring the project with Google
 ---
 
 Check out the [demo version](https://eemdr.tech/) here.
-
-[Updated version](https://vremdr.io/) is here. 
+[Updated version](https://vremdr.io/) is here.   
+Meet the Team:
+- [Adin](https://adinkwok.com/) 
+- [George](http://georgexu99.github.io)
