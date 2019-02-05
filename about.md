@@ -17,7 +17,7 @@ the past few weeks, I will have attended 3 consectuive hackathons -- And hoping 
 
 #### Currently looking for Summer 2019 student intern positions || Winter 2019 Co-op positions
 
-You can find the extended version of my resume [here](http://joshflchan.github.io/assets/files/JoshChan_Resume_Extended.pdf). Updated as of February 2019.
+You can find the extended version of my resume [here](http://joshflchan.github.io/assets/JoshChan_Resume_Extended.pdf). Updated as of February 2019.
 
 ---
 
