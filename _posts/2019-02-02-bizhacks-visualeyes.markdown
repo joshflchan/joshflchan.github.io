@@ -53,7 +53,7 @@ The project will also be presented to Best Buy executives within the coming week
 of using Swift**
 
 ---
-Check out the [demo version](https://github.com/joshflchan/Visual-Eye-BizHacks) here.
+Check out the [demo version](https://github.com/joshflchan/Visual-Eye-BizHacks) here.  
 Meet the Team: 
 - [Alex](https://www.linkedin.com/in/alex-zhang-bucs/)
 - [Cris](https://www.linkedin.com/in/cristianmihailescu/)
