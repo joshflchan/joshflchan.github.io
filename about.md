@@ -13,7 +13,7 @@ to increase the efficiency and accessibility of varying features for users withi
 
 I'm currently working on developing my two most recent [hackathon](https://joshflchan.github.io/bizhacks-visualeyes/)
 [projects](https://joshflchan.github.io/nwhacks-ichooseyou/) with my teammates at a steady pace during the academic term. Within
-the past few weeks, I will have attended 3 consectuive hackathons! And hoping to attend many more :sunglasses:
+the past few weeks, I will have attended 3 consectuive hackathons! And hoping to attend many more :sunglasses:.
 
 #### Currently looking for Summer 2019 student intern positions || Winter 2019 Co-op positions
 
