@@ -29,11 +29,14 @@ VisualEyes is a tool that offers a unique solution to today's varying and obsolo
 consumer focus and predicting demographics and emotions when viewing marketing content. The project utilizes
 Swift (for iOS development), Microsoft Azure Cognitive Services API (for emotional facial analysis), ARKit 2 (for predictive eye-tracking), and Firebase (for storing data), and placed 1st at BizHacks 2019, winning Best Buy's Best Hack Award. 
 
+*Note: This project is intended for internal testing only and not meant to be used to access public hardware"
+
 ![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/bizhacks_group.jpg)
 
 #### How it works
 The front-end tracks and projects the consumer's eye movements to calculate the coordinates of the points in which they are 
-staring. It is also taking a picture of users every 5 seconds, and uses Azure face detection APIs from cognitive services to predict users' age, sex and emotion during the period. All the user data generated with the app are stored and uploaded to Firebase for future analysis and data visualization.
+staring. In addition, every 5 seconds the recording captures a screenshot and the image is processed through Azure's Cognitive 
+Services API to predict the consumer's age, sex, and emotion during the period. All the user data generated with the app are stored and uploaded to Firebase for future analysis and data visualizatio processing.
 
 [![Visual Eyes](https://img.youtube.com/vi/dHPioO0KVxE/0.jpg)](https://www.youtube.com/watch?v=dHPioO0KVxE)
 
@@ -50,6 +53,11 @@ The project will also be presented to Best Buy executives within the coming week
 of using Swift**
 
 ---
-Check out the [demo version](https://github.com/joshflchan/Visual-Eye-BizHacks) here. 
+Check out the [demo version](https://github.com/joshflchan/Visual-Eye-BizHacks) here.
+Meet the Team: 
+- [Alex](https://www.linkedin.com/in/alex-zhang-bucs/)
+- [Cris](https://www.linkedin.com/in/cristianmihailescu/)
+- [George](https://www.linkedin.com/in/georgexu-/)
+- [Jacques](https://www.linkedin.com/in/jacqueschen1/)
 
 
