@@ -47,13 +47,14 @@ animation scripts in C#, and modeling the battle animations.
 
 #### What's next?
 
-I am continuing I Choose You! in collaboration with members of my [hackathon](https://adinkwok.com/) [team](http://ianmah.com/).
-We are currently heavily refactoring the code from the hackathon to allow for dynamic calls and are in the works of implementing
-multiplayer functionality with Google Firebase, remodeling the animations with new textures, and adding additional Pokémon
-with Vuforia's cloud SDK. 
+I am continuing I Choose You! in collaboration with members of my hackathon team. We are currently heavily refactoring the code from the hackathon to allow for dynamic calls and are in the works of implementing multiplayer functionality with Google Firebase, remodeling the animations with new textures, and adding additional Pokémonwith Vuforia's cloud SDK. 
 
 ---
 
-- Check out the [demo version](https://devpost.com/software/i-choose-ndouble-you) here. 
-- Stdlib APIs [here](https://stdlib.com/@huangsa/lib/waitingplayer-calc/#-) and [here](https://stdlib.com/@huangsa/lib/activeplayer-calc/#-).
-- Presentation website [here](http://ichoosenw.com/).
+Check out the [demo version](https://devpost.com/software/i-choose-ndouble-you) here.   
+Stdlib APIs [here](https://stdlib.com/@huangsa/lib/waitingplayer-calc/#-) and [here](https://stdlib.com/@huangsa/lib/activeplayer-calc/#-).  
+Presentation website [here](http://ichoosenw.com/).  
+Meet the Team:
+- [Adin](https://adinkwok.com/)
+- [Ian](https://www.linkedin.com/in/ianmah/)
+- [Samantha](https://www.linkedin.com/in/samantha-huang/)
