@@ -27,9 +27,9 @@ MySoil is a 24-hour hackathon project developed as an integrated community garde
 MySoil is a web application that encourages and helps manage community gardening through Reactjs, as well as a soil health monitoring system powered by an arduino and soil moisture/environmental sensors. Users are able to find and join local community gardens based on location data and are assigned/reminded of weekly tasks. The project was created at XdHacks 2019 for the
 food and global resources path.
 
-*Note: Unfortunately, we were unable to get a group photo this time and missed out on capturing some special moments of the project in action :disappointed: Here's a picture of the web app instead!*
+*Note: Unfortunately, we were unable to get a group photo this time and missed out on capturing some special moments of the project in action :disappointed:. Here's a picture of the web app instead!*
 
-![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/mysoil-screen.png)
+![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/mysoil-screen.PNG)
 
 #### How it works
 As a minimal viable product, my team and I managed to create a functioning soil moisture/environmental sensor and programmed the arduino to track the data (soil moisture, humidity, and temperature) on a time-specified basis. The data is then encoded to a JSON file, passed to Firebase, and then processed and displayed visually on the front-end of the web application. Users are also able to log in via Google, Facebook, Twitter, or Github through Firebase's Authentication feature. Based on the soil health and weather status, the web application would also notify users of their weekly assigned tasks. I personally worked on aspects of the web application, actively learning Reactjs throughout the hackathon.
