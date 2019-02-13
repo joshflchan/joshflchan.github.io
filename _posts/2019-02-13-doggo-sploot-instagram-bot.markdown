@@ -19,10 +19,10 @@ externalLink: false
 #### Project Idea
 The motivation behind this project is to streamline the marketing aspect of personal dropshipping business.
 
-Problem: Instagram API does not allow access to posting functionality, inhibiting ability to use services that
+**Problem**: Instagram API does not allow access to posting functionality, inhibiting ability to use services that
 will auto-post
 
-Solution: Plan on setting up a server and using selenium to auto-post through Instagram's web interface. Will also
+**Solution**: Plan on setting up a server and using selenium to auto-post through Instagram's web interface. Will also
 create web scraper to take top posts from r/doggos subreddit and credit respective users.
 
 #### Additional thoughts
