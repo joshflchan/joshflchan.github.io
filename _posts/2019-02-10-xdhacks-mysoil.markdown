@@ -1,12 +1,11 @@
 ---
 title: ":seedling: MySoil"
 layout: post
-date: 2018-09-20 21:10
+date: 2019-02-10 18:54
 tag:
 - hackathon
 - agriculture
 - reactjs
-- mental health
 image: https://joshflchan.github.io/assets/images/mysoil.png
 headerImage: false
 projects: true
