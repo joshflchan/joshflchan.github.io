@@ -1,12 +1,12 @@
 ---
 title: ":seedling: MySoil"
 layout: post
-date: 2018-09-20 21:10
+date: 2019-02-10 18:10
 tag:
 - hackathon
 - agriculture
 - reactjs
-- mental health
+- arduino
 image: https://joshflchan.github.io/assets/images/mysoil.png
 headerImage: false
 projects: true
@@ -32,12 +32,12 @@ food and global resources path.
 ![Screenshot](https://raw.githubusercontent.com/joshflchan/joshflchan.github.io/master/assets/images/mysoil-screen.PNG)
 
 #### How it works
-As a minimal viable product, my team and I managed to create a functioning soil moisture/environmental sensor and programmed the arduino to track the data (soil moisture, humidity, and temperature) on a time-specified basis. The data is then encoded to a JSON file, passed to Firebase, and then processed and displayed visually on the front-end of the web application. Users are also able to log in via Google, Facebook, Twitter, or Github through Firebase's Authentication feature. Based on the soil health and weather status, the web application would also notify users of their weekly assigned tasks. I personally worked on aspects of the web application, actively learning Reactjs throughout the hackathon.
+As a minimal viable product, my team and I managed to create a functioning soil moisture/environmental sensor and programmed the arduino to track the data (soil moisture, humidity, and temperature) on a time-specified basis. The data is then encoded to a JSON file, passed to Firebase, and then processed and displayed visually on the front-end of the web application. Users are also able to log-in via Google, Facebook, Twitter, or Github through Firebase's Authentication feature. Based on the soil health and weather status, the web application also notifies users of their weekly assigned tasks. I personally worked on aspects of the web application, actively learning Reactjs throughout the hackathon.
 
 #### What's next?
-Owing to time constraints and lack of resources, we were unable to weather-proof and attach a Wi-Fi shield to the arduino the have the JSON data passed directly to Firebase. Moreover, the weather application on the website is not very accurate, which causes some miscalculations for task reminders. We also had plans of implementing a chat feature and recommending crops based on soil health and region, then recommending healthy recipes based on these crops.
+Owing to time constraints and lack of resources, we were unable to weather-proof and attach a Wi-Fi shield to the arduino to have the JSON data passed directly to Firebase. Moreover, the weather application on the website is not very accurate, which causes some miscalculations for task reminders. We also had plans of implementing a chat feature and recommending crops based on soil health and region, then recommending healthy recipes based on these crop recommendations.
 
-Learning Reactjs within 24-hours was definitely the most challenging part of the project, but was also very rewarding! Challenging myself to work with hardware at a hackathon for the first time was also an interesting experience. I look forward to utilzing these newfound skills in the near future :smile:.
+Learning Reactjs within 24-hours was definitely the most challenging part of the project, but was also very rewarding! Challenging myself to work with hardware at a hackathon for the first time was also an interesting experience. I look forward to utilizing these newfound skills in the near future :smile:.
 
 ---
 
