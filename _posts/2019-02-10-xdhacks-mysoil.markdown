@@ -1,12 +1,19 @@
 ---
 title: ":seedling: MySoil"
 layout: post
+<<<<<<< HEAD
 date: 2019-02-10 18:10
+=======
+date: 2019-02-10 18:54
+>>>>>>> 25b28feaf5167cc4b9facfd7138ff2c6b142f97c
 tag:
 - hackathon
 - agriculture
 - reactjs
+<<<<<<< HEAD
 - arduino
+=======
+>>>>>>> 25b28feaf5167cc4b9facfd7138ff2c6b142f97c
 image: https://joshflchan.github.io/assets/images/mysoil.png
 headerImage: false
 projects: true
