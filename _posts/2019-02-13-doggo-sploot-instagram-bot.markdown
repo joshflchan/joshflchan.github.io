@@ -22,13 +22,17 @@ The motivation behind this project is to streamline the marketing aspect of pers
 **Problem**: Instagram API does not allow access to posting functionality, inhibiting ability to use services that
 will auto-post
 
-**Solution**: Plan on setting up a server and using selenium to auto-post through Instagram's web interface. Will also
+**Solution**: Plan on setting up a server and using Selenium to auto-post through Instagram's web interface. Will also
 create web scraper to take top posts from r/doggos subreddit and credit respective users.
 
 #### Additional thoughts
 - May have difficulty posting slideshow images on Instagram's web interface (1 for meme and 1 for advertisement).
 - Is it possible to store web-scraped images somewhere, perhaps personal VPS?
 
+*Update (02/14/4:16PM): My friend Ian found a private API with Nodejs: https://www.npmjs.com/package/instagram-private-api?fbclid=IwAR2NgCNnxgFHMWotBrPIi9PuAx_dwUHHM5bHXnZM70bgsL6AMojIsAIdwFs   
+I can't believe I overlooked private APIs :sweat_smile:*
+
+**New Solution**: Same idea but with private API, hopefully will no longer require Selenium.
 ---
 
 Coming soon!
