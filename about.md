@@ -13,18 +13,16 @@ to increase the efficiency and accessibility of varying features for users withi
 
 I'm currently working on developing my two most recent [hackathon](https://joshflchan.github.io/bizhacks-visualeyes/)
 [projects](https://joshflchan.github.io/nwhacks-ichooseyou/) with my teammates at a steady pace during the academic term. Within
-the past few weeks, I will have attended 3 consectuive hackathons -- And hoping to attend many more!
+the past few weeks, I will have attended 3 consecutive hackathons -- And hoping to attend many more!
 
 #### Currently looking for Summer 2019 student intern positions || Winter 2019 Co-op positions
-
-You can find the extended version of my resume [here](http://joshflchan.github.io/assets/JoshChan_Resume_Extended.pdf). Updated as of February 2019.
 
 ---
 
 Coding is something that I've really started to enjoy and pursue this past year after taking a few computer science related courses. I enjoy hackathons and hope to attend more throughout the year to develop my skills and figure out which areas of
 computer science that I want to dive into. I've developed a recent interest in Data Science and have started looking into projects through [Kaggle](https://www.kaggle.com/).
 
-In my spare time I sketch landscapes, take photos, and listen to music. Hoping to write in my blog more and feature some of my more creative projects!
+In my spare time I sketch landscapes, play Tetris, and listen to music. Hoping to write in my blog more and feature some of my more creative projects!
 
 ## Featured Projects
 
