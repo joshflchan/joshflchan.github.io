@@ -28,5 +28,4 @@ In my spare time I sketch landscapes, play Tetris, and listen to music. Hoping t
 
 <ul>
 	<li><a href="https://joshflchan.github.io/bizhacks-visualeyes/">VisualEyes</a></li>
-	<li><a href="https://www.instagram.com/doggo.sploot/">Doggo Sploot</a></li>
 </ul>
