@@ -36,7 +36,7 @@ Swift (for iOS development), Microsoft Azure Cognitive Services API (for emotion
 #### How it works
 The front-end tracks and projects the consumer's eye movements to calculate the coordinates of the points in which they are 
 staring. In addition, every 5 seconds the recording captures a screenshot and the image is processed through Azure's Cognitive 
-Services API to predict the consumer's age, sex, and emotion during the period. All the user data generated with the app are stored and uploaded to Firebase for future analysis and data visualizatio processing.
+Services API to predict the consumer's age, sex, and emotion during the period. All the user data generated with the app are stored and uploaded to Firebase for future analysis and data visualization processing.
 
 [![Visual Eyes](https://img.youtube.com/vi/dHPioO0KVxE/0.jpg)](https://www.youtube.com/watch?v=dHPioO0KVxE)
 
