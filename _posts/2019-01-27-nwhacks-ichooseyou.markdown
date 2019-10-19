@@ -2,9 +2,9 @@
 title: ":video_game: I Choose You!"
 layout: post
 date: 2019-01-27 18:30
-tag: 
+tag:
 - hackathon
-- augemented reality
+- augmented reality
 - voice-to-text
 - stdlib
 image: https://joshflchan.github.io/assets/images/ichooseyou.jpg
@@ -38,16 +38,16 @@ won the award: "Best/Most Creative Use of Standard Library," presented by the sp
 
 When the app is opened, audio is constantly being streamed to IBM Watson and processed, in which a call is then made to
 IBM Watson's API. Given the voice commands recognized to text, scripts within Unity's engine are run and call two custom REST APIs
-that we created and are hosted on Standard Library - one API for the "attacking" player and one for the "waiting" player." These 
+that we created and are hosted on Standard Library - one API for the "attacking" player and one for the "waiting" player." These
 APIs allow us to calculate the battle logic based on attack types and move attack damage. Once processed, Unity's game engine
 is triggered to display the attack animations of the respective Pokémon.  
 
 I personally handled the integration of Vuforia's AR engine and image targetting features with Unity, programming the attack
-animation scripts in C#, and modeling the battle animations. 
+animation scripts in C#, and modeling the battle animations.
 
 #### What's next?
 
-I am continuing I Choose You! in collaboration with members of my hackathon team. We are currently heavily refactoring the code from the hackathon to allow for dynamic calls and are in the works of implementing multiplayer functionality with Google Firebase, remodeling the animations with new textures, and adding additional Pokémonwith Vuforia's cloud SDK. 
+I am continuing I Choose You! in collaboration with members of my hackathon team. We are currently heavily refactoring the code from the hackathon to allow for dynamic calls and are in the works of implementing multiplayer functionality with Google Firebase, remodeling the animations with new textures, and adding additional Pokémonwith Vuforia's cloud SDK.
 
 ---
 
