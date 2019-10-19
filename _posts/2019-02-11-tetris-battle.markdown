@@ -15,9 +15,14 @@ description: My experience with Tetris
 ---
 ## My Experience with Tetris Battle
 
-One hobby of mine that not many people know about...
+~~One hobby of mine that not many people know about...~~
+
+RIP - May 31st, 2019 :frowning:
+https://www.tetrisfriends.com/  
+
+I'm never gonna be able to reach my goal of Grandmaster on the de facto online Tetris platform...
+
+Time to train in [Jstris](https://jstris.jezevec10.com)
 
 
 ---
-
-Coming soon!
