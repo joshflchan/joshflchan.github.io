@@ -17,10 +17,9 @@ description: My experience with Tetris
 
 ~~One hobby of mine that not many people know about...~~
 
-RIP - May 31st, 2019 :frowning:
-https://www.tetrisfriends.com/  
+RIP - May 31st, 2019 :sob:
 
-I'm never gonna be able to reach my goal of Grandmaster on the de facto online Tetris platform...
+I'm never gonna be able to reach my goal of Grandmaster on the de facto [online Tetris platform](https://www.tetrisfriends.com/)...
 
 ---
 
