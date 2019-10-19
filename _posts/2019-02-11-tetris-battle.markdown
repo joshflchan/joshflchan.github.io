@@ -22,7 +22,9 @@ https://www.tetrisfriends.com/
 
 I'm never gonna be able to reach my goal of Grandmaster on the de facto online Tetris platform...
 
+---
+
 Time to train in [Jstris](https://jstris.jezevec10.com)
 
-
 ---
+Coming soon~~!~~?
