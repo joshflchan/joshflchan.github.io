@@ -26,4 +26,4 @@ I'm never gonna be able to reach my goal of Grandmaster on the de facto [online 
 Time to train in [Jstris](https://jstris.jezevec10.com)
 
 ---
-Coming soon~~!~~?
+Coming soon!
